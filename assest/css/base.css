@@ -17,7 +17,7 @@ ul{
     list-style-type: none;
 }
 .container{
-width: calc(100% - 300px);
+width: calc(100% - 320px);
 margin: auto;
 
 }
